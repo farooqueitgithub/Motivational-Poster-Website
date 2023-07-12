@@ -1,0 +1,25 @@
+body
+{
+        background-color: black;
+}
+
+.Alter
+{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+h1
+{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.Photo1
+{
+    width: 100%; 
+    border: 5px solid white;
+}
